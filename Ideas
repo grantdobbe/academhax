@@ -1,0 +1,5 @@
+Pull down the info of the currently enrolled students, build a runestone formatted spreadsheet, and upload it to runestone
+Auto update the due and start dates for assignments in the assignment name based on the dates set
+Given a student name, auto update the time they get on all quizzes by either +50% or +100%
+Auto update the dates on the module headings
+Auto un-publish all notes and recordings under each module
